@@ -1,5 +1,5 @@
 
-                                                    #####  Stochastic models for materials Science   #####
+                                                    #  Stochastic models for materials Science 
 ### Project 1: Statistical Inference and Distribution Analysis
 This project utilizes parametric and non-parametric statistical methods to evaluate environmental data, medical drug efficacy, and stochastic event timing.
 
